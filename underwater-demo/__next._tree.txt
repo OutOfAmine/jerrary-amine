@@ -1,0 +1,5 @@
+:HL["/jerrary-amine/_next/static/chunks/8a80e7184ad3a13f.css","style"]
+:HL["/jerrary-amine/_next/static/chunks/23c5c1c31792ea2b.css","style"]
+:HL["/jerrary-amine/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/jerrary-amine/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"j1DOczl5RlE-26m9tEF-4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"underwater-demo","paramType":null,"paramKey":"underwater-demo","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
